@@ -1,2 +1,2 @@
 # mx2
-Created with CodeSandbox
+Simple currency exchange to update estimates in realtime.
